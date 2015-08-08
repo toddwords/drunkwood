@@ -3,9 +3,13 @@ a context-free grammar for generating situations of drunkenness with achewood ch
 
 ###Examples
 _Lyle and Ray get a little imprecise with the help of some margaritas and such as that._
+
 _Nice Pete and Lyle become spry on much old whiskey until Teodor shows up with some margaritas and it sincerely becomes a time._
+
 _Cornelius and Todd be gettin' all puzzled with the help of some old whiskey and such as that._
+
 _Roast Beef and Frank get a little rutty on some grolsch._
+
 
 ###How to Use
 you'll have to have python installed, and run the command line / teminal, get into the drunkwood directory and type:
