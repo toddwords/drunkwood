@@ -2,7 +2,7 @@
 a context-free grammar for generating situations of drunkenness with achewood characters and such as that
 
 ###How to Use
-you'll have to have python installed, and run the python shell, get into the drunkwood directory and type:
+you'll have to have python installed, and run the command line / teminal, get into the drunkwood directory and type:
 
 `python contextfree.py S <drunkwood_grammar.json`
 
