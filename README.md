@@ -2,7 +2,7 @@
 a context-free grammar for generating situations of drunkenness with achewood characters and such as that
 
 ###Examples
-_Lyle and Ray get a little imprecise with the help of some margaritas and such as that._
+_Ray and Lyle get all imprecise on crunchy stellas and such as that._
 
 _Nice Pete and Lyle become spry on much old whiskey until Teodor shows up with some margaritas and it sincerely becomes a time._
 
