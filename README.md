@@ -1,5 +1,5 @@
 # Drunkwood
-a context-free grammar from generating situations of drunkenness with achewood characters and such as that
+a context-free grammar for generating situations of drunkenness with achewood characters and such as that
 
 ###How to Use
 you'll have to have python installed, and run the python shell, get into the drunkwood directory and type:
@@ -10,3 +10,4 @@ To edit the word bank open drunkwood_grammar.json and mess around, should be suf
 
 ###Credits
 This piece comes out of a workshop by Allison Parrish (@aparrish), who is also the author of the contextfree.py code.
+Based on [the comic](http://achewood.com) by Chris Onstad
