@@ -1,0 +1,12 @@
+{
+	"S": ["CP VP Adj Prep DP Coda"],
+	"CP": ["Character and Character"],
+	"Character" : ["Ray", "Roast Beef", "Teodor", "Cornelius", "Lyle", "Nice Pete", "Todd", "Justin", "Frank"],
+	"VP": ["get","get all","become","become all", "get a little", "be gettin' all", "get mad", "be gettin' mad"],
+	"Adj": ["spry", "puzzled", "misdirected", "imprecise", "rutty", "drunk as lords", "impractical"],
+	"Prep": ["on some", "with the assistance of", "with the help of some", "on", "on much"],
+	"DP": ["Drink", "Drink", "Drink", "Drink and such as that", "Drink and such like"],
+	"Drink": ["moonshine", "grolsch", "crispy stellas", "brews", "crunchy stellas", "highballs", "gin", "margaritas", "old whiskey"],
+	"Coda": ["", "", "", "", "", "", "until Character shows up with some Drink and it Adv becomes a time"],
+	"Adv": ["truly", "sincerely", "surely", "definitively"]
+}
